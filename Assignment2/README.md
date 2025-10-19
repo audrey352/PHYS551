@@ -1,31 +1,27 @@
 # PHYS551 - Applied Machine Learning
 
-<!-- This project explores the performance of **linear regression** and **logistic regression** using analytical solutions and gradient descent methods.  
-The experiments use datasets from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and compare metrics such as training/test loss, epochs to convergence, and learning rate effects. -->
+## Assignment 2: Regularization and Model Evaluation
+
+This project explores the details of linear regression using non-linear bases, bias-variance trade-off, regularization with cross-validation and the effects of L1 and L2 regularization on loss.
+The presented tasks use synthetic datasets and compare relationships between training/validation error and the choice of parameters (such as number of basis functions or regularization strength). We also look at metrics such as bias and variance for each explored parameter.
 
 ---
 
-## Features / Experiments
+## Tasks
 
-<!-- The following experiments were conducted in order:
+The following tasks were conducted in order:
 
-1. **Baseline Performance**  
-   - Train linear regression and fully batched logistic regression models.  
-   - Use an 80/20 train-test split.  
-   - Report performance on both the training and test sets.
+1. **Linear Regression with Non-Linear Basis Functions**  
+   - 
 
-2. **Feature Weights**  
-   - Report the learned weights of each feature.  
+2. **Bias-Variance Tradeoff with Multiple Fits**  
+   - 
 
-3. **Varying Training Set Size**  
-   - Train on subsets of the training data (20%, 30%, …, 80%).  
-   - Plot performance curves (training vs. test sets) as a function of training size.  
-   - Include confidence intervals/error bars over multiple runs to capture variability.
+3. **Regularization with Cross-Validation**  
+   - 
 
-4. **Mini-Batch Size Experiments**  
-   - Compare convergence speed and performance with different batch sizes (8, 16, 32, 64, 128).  
-   - Report train and test loss.
+4. **Effect of L1 and L2 Regularization on Loss**  
+   - 
 
-5. **Learning Rate Variation**  
-   - Train both linear and logistic regression with different learning rates.  
-   - Compare their effects on convergence and final performance. -->
+5. **Extra**  
+   - ?????

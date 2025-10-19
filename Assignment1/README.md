@@ -1,5 +1,7 @@
 # PHYS551 - Applied Machine Learning
 
+## Assignment 1: Exploring Linear and Logistic Regression 
+
 This project explores the performance of **linear regression** and **logistic regression** using analytical solutions and gradient descent methods.  
 The experiments use datasets from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/) and compare metrics such as training/test loss, epochs to convergence, and learning rate effects.
 
